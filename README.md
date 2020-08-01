@@ -1,5 +1,5 @@
 <h1>..........WARNING............</h1>
-Do not try it in others system without permission. It may DAMAGE the system.
+Do not try it in others system without permission. It may DAMAGE the system.<br>
 I'm not responsible if something went wrong. 
 
 
@@ -11,3 +11,5 @@ I'm not responsible if something went wrong.
 
 
 <h1>..........WARNING............</h1>
+Do not try it in others system without permission. It may DAMAGE the system.<br>
+I'm not responsible if something went wrong. 
